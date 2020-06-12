@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/SduongPlanD/project-template/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/SduongPlanD/project-template#readme"
+=======
+  "homepage": "https://github.com/SduongPlanD/project-template#readme",
+  "dependencies": {
+    "webpack": "^4.43.0"
+  }
+>>>>>>> 7814abc105df4e615d2bb04bce2f71a472b14a4b
 }
